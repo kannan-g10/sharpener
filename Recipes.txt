@@ -5,7 +5,11 @@ Welcome to web dev
 frontend
 backend
 database
+redux
 
 Thank you
+
+Done my changes
+
 
 Finally done
